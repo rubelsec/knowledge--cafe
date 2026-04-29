@@ -2,7 +2,7 @@
   {
     "id": 1,
     "cover": "https://picsum.photos/seed/cover1/600/400",
-    "tittle": "Mastering React Basics",
+    "title": "Mastering React Basics",
     "author": "John Carter",
     "img": "https://i.pravatar.cc/150?img=1",
     "posted_date": "2026-03-12",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "cover": "https://picsum.photos/seed/cover2/600/400",
-    "tittle": "Understanding Async JavaScript",
+    "title": "Understanding Async JavaScript",
     "author": "Emily Watson",
     "img": "https://i.pravatar.cc/150?img=2",
     "posted_date": "2026-02-28",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "cover": "https://picsum.photos/seed/cover3/600/400",
-    "tittle": "CSS Grid vs Flexbox",
+    "title": "CSS Grid vs Flexbox",
     "author": "Michael Lee",
     "img": "https://i.pravatar.cc/150?img=3",
     "posted_date": "2026-01-15",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "cover": "https://picsum.photos/seed/cover4/600/400",
-    "tittle": "Node.js for Beginners",
+    "title": "Node.js for Beginners",
     "author": "Sophia Brown",
     "img": "https://i.pravatar.cc/150?img=4",
     "posted_date": "2025-12-20",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "cover": "https://picsum.photos/seed/cover5/600/400",
-    "tittle": "Tailwind CSS Quick Guide",
+    "title": "Tailwind CSS Quick Guide",
     "author": "Daniel Smith",
     "img": "https://i.pravatar.cc/150?img=5",
     "posted_date": "2026-04-05",
